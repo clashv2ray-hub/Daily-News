@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-11 08:30:29|[竹林里有冰的博客](https://zhul.in/rss.xml)|[如何使用 docker 部署 onemanager](https://zhul.in/2024/02/11/how-to-deploy-onemanager-with-docker/)|
+|2024-02-11 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[海底捞、胖东来、星巴克，如何构建员工价值和顾客价值？](https://36kr.com/p/2641241083252231)|
+|2024-02-11 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[明明北方人爱吃饺子，为啥赚钱的却是南方品牌？](https://36kr.com/p/2642004925366531)|
+|2024-02-11 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[回顾变动调整之年，教培行业如何走进 2024？](https://36kr.com/p/2641251203285256)|
+|2024-02-11 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大厂春节礼盒走红二手平台，假期倒卖狂赚20万](https://36kr.com/p/2641942423813253)|
+|2024-02-11 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[支撑日本股市上涨的三大支柱正在动摇](https://36kr.com/p/2641152867074309)|
+|2024-02-11 04:03:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[今年春晚，终于不按套路出牌了！](https://36kr.com/p/2642186520132736)|
+|2024-02-11 04:03:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[谷歌统一战线对阵OpenAI：开启Gemini时代，发布移动端产品](https://36kr.com/p/2640763957148806)|
+|2024-02-11 09:51:45|[太隐](https://wangyurui.com/feed.xml)|[半僧诗奴](https://wangyurui.com/posts/ban-seng-shi-nu-d88db69b)|
+|2024-02-11 11:39:05|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Java 线程池系列-第一篇](https://nicksxs.me/2024/02/11/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%B3%BB%E5%88%97-%E7%AC%AC%E4%B8%80%E7%AF%87/)|
+|2024-02-11 01:10:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2月8日，温州金州大厦，大姐说我不是故意偷的，只是脑子控制不住…](https://dig.chouti.com/link/41505832)|
+|2024-02-11 10:43:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【巴基斯坦公布国民议会选举最终结果 各方将联合组阁】统计结果显示，独立参选人集团获得101席，处于领先地位。穆斯林联盟（谢里夫派）获得75席，人民党获得54席，其他政党获得的席位都低于50席。没有政党获得超过半数（168）席位，因此需要各方协商联合组阁。](https://dig.chouti.com/link/41509072)|
+|2024-02-11 02:02:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以色列称在联合国机构地下发现哈马斯设施 联合国方面：不知情](https://dig.chouti.com/link/41506037)|
 |2024-02-11 08:08:39|[机核](https://www.gcores.com/rss)|[属于我的除夕夜，消散在2024奶奶过世的第一个春节](https://www.gcores.com/articles/177560)|
 |2024-02-11 06:00:00|[机核](https://www.gcores.com/rss)|[客制化键盘丨老树发新芽：近期值得一看的套件与键帽](https://www.gcores.com/articles/177548)|
 |2024-02-11 05:44:22|[机核](https://www.gcores.com/rss)|[《我们一起摇太阳》：生命是一次奇遇](https://www.gcores.com/articles/177563)|
