@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-12 04:01:21|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[新玩意 172｜少数派的编辑们最近买了啥？](https://sspai.com/post/86396)|
+|2024-02-12 03:00:00|[机核](https://www.gcores.com/rss)|[《第二十条》：他还有退路，我们呢？](https://www.gcores.com/articles/177574)|
 |2024-02-11 02:55:21|[白宦成](https://www.ixiqin.com/feed/)|[Hexo 构建过程中报错 FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed – JavaScript heap out of memory 如何处理？](https://www.ixiqin.com/2024/02/11/hexo-error-during-construction-data-error-effective-mark/)|
 |2024-02-11 14:52:00|[est の 输入输出](https://blog.est.im/rss)|[Deal with the world](https://blog.est.im/2024/stderr-03)|
 |2024-02-11 06:11:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伊朗100岁老人塔吉-阿斯加里曾参加过1951年第一届亚运会新德里亚运会，获得了男子10米台的银牌、3米板的铜牌。昨天，这位老人来到了多哈，在世锦赛1米台一跃入水，此次参赛距离他在新德里亚运会中跳水，已经过去73年了。](https://dig.chouti.com/link/41507767)|
