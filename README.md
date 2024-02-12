@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-12 11:10:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[春节留守猫咪](https://dig.chouti.com/link/41516585)|
+|2024-02-12 13:02:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网红“铁头惩恶扬善”遭全网封禁，曾在直播间里自曝涉黄经历](https://dig.chouti.com/link/41517039)|
+|2024-02-12 14:10:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2月12日，云南临沧，四人凌晨喝完酒回家错把猪食当成粥，直到吃饱了才发现……当事人小英称，四个人凌晨喝完酒回来，都饿了，看见厨房有猪食，里面肉又多，以为是家里老人给我们煮的稀饭，直到吃饱了，老人睡醒去厕所告诉我们那是猪食，她还称，吃完之后并没有出现不适。](https://dig.chouti.com/link/41517512)|
+|2024-02-12 07:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[李敖女婿确诊肠癌晚期，女儿发文求助，想拿遗产救夫遭拒](https://dig.chouti.com/link/41515049)|
+|2024-02-12 05:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【演员秦昊：不再“等”电影】王小帅记得秦昊平日里没事会出去玩，但一旦开拍，就总躲在房间里不出来，怕自己的状态被影响。“他总是处在等电影的状态里，不会因为档期的问题错过合适的电影。”](https://dig.chouti.com/link/41514544)|
+|2024-02-12 07:09:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[小米回复印度政府：鉴于严格审查，零部件供应商对在印建立业务持忧虑态度](https://dig.chouti.com/link/41515129)|
+|2024-02-12 07:09:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[死侍3内地与港台预告海报，内地slogan为“不贱不散”，港台为“狼情侍意”，英语原版则直接Come Together（谐音Cum Together），非常基情四射的恶趣味~](https://dig.chouti.com/link/41515167)|
+|2024-02-12 07:33:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[酋长五年三冠超级碗：赌城、173亿美元和泰勒·斯威夫特](https://dig.chouti.com/link/41515216)|
+|2024-02-12 08:10:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[德国总理朔尔茨访美期间，与跟自己外型相似的美国参议员库恩斯合影。库恩斯将这张照片发布到社交媒体，并以德文写下”谁是谁？”（Wer ist wer？）。除了长相酷似，两人年龄也相似，分别为60岁和65岁，就连身高也相近。“很高兴再次见到我的分身。”朔尔茨在X上写道。](https://dig.chouti.com/link/41515502)|
+|2024-02-12 10:09:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上周一，荷兰前首相Dries和妻子Eugenie一起进行了安乐死，二人相伴70年，如今牵着手完成“合法殉情”](https://dig.chouti.com/link/41516213)|
+|2024-02-12 04:03:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“科技五巨头”为何贵？不只是业绩，还有账面1400亿美元现金](https://dig.chouti.com/link/41513938)|
+|2024-02-12 04:08:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这龙咋长得这么有喜感？](https://dig.chouti.com/link/41513981)|
+|2024-02-12 05:02:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【法国女演员指控两位知名导演性侵，当时她才十四五岁】当地时间2月6日，法国女演员朱迪丝·戈德雷什（Judith Godrèche）在一天内针对两位法国知名导演雅克·杜瓦隆（Jacques Doillon）和伯努瓦·雅克（Benoît Jacquot），提出强奸指控，也将由针对热拉尔·德帕迪约开始的新一轮法国演艺圈的反性侵运动再次推向高潮。](https://dig.chouti.com/link/41514251)|
+|2024-02-12 07:01:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[柯文哲人生已彻底检讨？柯妻陈佩琪指他选后感叹：若“蓝白合”会赢](https://dig.chouti.com/link/41514909)|
+|2024-02-12 08:10:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[菊地姫奈……顶不住](https://dig.chouti.com/link/41515485)|
+|2024-02-12 08:10:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【乌克兰称俄军正在使用“星链”，马斯克回应：没卖给俄罗斯】乌克兰国防部情报总局在社交媒体发布了一则据称是俄军士兵对话的录音：一人用俄语说“星链正在工作，我们有互联网（访问）了”。乌方称，俄军正在“系统地”使用“星链”终端，但没有提及俄军是如何获得这些终端的，例如，从国外采购的，还是从乌军手中缴获的。](https://dig.chouti.com/link/41515458)|
+|2024-02-12 10:03:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当地时间2月12日，荷兰上诉法院裁定，要求荷兰政府在7天内停止向以色列出口F-35战斗机零部件](https://dig.chouti.com/link/41516146)|
+|2024-02-12 03:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[任泽平团队：3000县全景呈现中国人口大迁移](https://dig.chouti.com/link/41513694)|
 |2024-02-12 16:03:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季英超阿斯顿维拉 1:2 曼联，如何评价这场比赛？](https://www.zhihu.com/question/644042531)|
 |2024-02-12 16:03:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美企「迫于国会压力」拟逐步停用宁德时代电池，如何评价此事？将对美国企业带来哪些影响？](https://www.zhihu.com/question/643878133)|
 |2024-02-12 16:03:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价电影《飞驰人生 2》中魏翔饰演的叶经理？](https://www.zhihu.com/question/644020718)|
