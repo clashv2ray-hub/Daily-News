@@ -2,6 +2,32 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-14 06:17:50|[xulihang's blog](https://blog.xulihang.me/feed/)|[改善视力的替代疗法](https://blog.xulihang.me/alternative-medicine-for-improving-eyesight/)|
+|2024-02-14 17:02:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[为啥开车加塞、插队的特别多](https://blog.est.im/2024/stdin-02)|
+|2024-02-14 08:11:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[进化](https://dig.chouti.com/link/41529926)|
+|2024-02-14 08:11:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《死侍3》情人节海报，狼情侍意，向你比心。右上角写着「HE SAID YES」，爱情故事实锤](https://dig.chouti.com/link/41529917)|
+|2024-02-14 08:44:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[东北文艺宇宙简史](https://dig.chouti.com/link/41529976)|
+|2024-02-14 13:02:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[印尼大选结果出炉：现任国防部长搭档现任总统之子当选正副总统](https://dig.chouti.com/link/41531547)|
+|2024-02-14 09:52:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【没有高中的学历能当水兵么？】虽说海军有些岗位不需要啥文凭，但现代海军是一个技术兵种，而且会越来越复杂，国际货轮船员最低都要完成高中学习，如果美国海军让基础教育都不能完成的人去发挥海军精神，那可能真的有点困难。](https://dig.chouti.com/link/41530309)|
+|2024-02-14 14:02:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《我们一起摇太阳》宣布撤出今年春节档，3月30日再上映](https://dig.chouti.com/link/41531880)|
+|2024-02-14 10:02:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【比德国更弱？日本GDP将跌至世界第四，很快两国都将被印度超越】分析师目前预计，日本经济2023年第四季度GDP预计将恢复至1.2%的年化增长率。但明天公布的第四季度及2023年GDP数据会显示，日本的产出价值将落后于德国（以美元计算），日本在全球的经济排名将从第三降至第四，而印度经济则有望在未来几年内超过日本和德国。](https://dig.chouti.com/link/41530492)|
+|2024-02-14 10:02:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国国脚李刚仁就亚洲杯期间内讧事件道歉：我该听从哥哥们的话](https://dig.chouti.com/link/41530509)|
+|2024-02-14 10:09:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【加密总市值重回2万亿美元上方】CoinGecko数据显示，随着比特币和以太坊走高，比特币市值重回1万亿美元上方，加密货币总市值重回2万亿美元上方。比特币站上51000美元/枚，创2021年12月以来新高，日内涨2.98%。以太坊涨3%，报2718美元/枚。](https://dig.chouti.com/link/41530594)|
+|2024-02-14 12:03:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI定胜负？微软云Azure规模“快速赶上”亚马逊云AWS](https://dig.chouti.com/link/41531297)|
+|2024-02-14 12:11:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：乐高车辆，作者David Lee](https://dig.chouti.com/link/41531397)|
+|2024-02-14 12:30:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【Lyft财报业绩展望多加个0导致股价大涨，澄清后又回吐】在与分析师的电话会议上，Lyft首席财务官表示，公司预计利润率将增长50个基点，而非500，并承认新闻稿的数字有误。盘后股价随即回吐多数涨幅。有分析师表示，“这是一个打肿脸的时刻，是史诗般的灾难，在近25年的华尔街生涯中从未见过像这样的错误。”](https://dig.chouti.com/link/41531451)|
+|2024-02-14 05:10:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[秀出天际！英冠赫尔城球员杰登·菲洛金的小角度插花脚破门~](https://dig.chouti.com/link/41528846)|
+|2024-02-14 16:54:13|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)|
+|2024-02-14 14:24:09|[机核](https://www.gcores.com/rss)|[在树下向我告白的麦霸美术生，之后成了我乐队的主唱](https://www.gcores.com/articles/177625)|
+|2024-02-14 13:00:00|[机核](https://www.gcores.com/rss)|[四宝大闹武林其一：神秘人广发英雄帖，众武侠齐聚盘龙寨](https://www.gcores.com/radios/177570)|
+|2024-02-14 12:30:00|[机核](https://www.gcores.com/rss)|[全新GPASS会员专享跑团节目《四宝大闹武林》，2月14、16、18日三集上线！](https://www.gcores.com/radios/177569)|
+|2024-02-14 11:40:40|[机核](https://www.gcores.com/rss)|[《死亡细胞》宣布停止更新，开发团队感谢玩家支持](https://www.gcores.com/articles/177622)|
+|2024-02-14 11:36:37|[机核](https://www.gcores.com/rss)|[藤本树作品《蓦然回首》剧场动画化，6月28日上映](https://www.gcores.com/articles/177623)|
+|2024-02-14 11:28:24|[机核](https://www.gcores.com/rss)|[《幻想水浒传》系列制作人村山吉隆因病去世](https://www.gcores.com/articles/177620)|
+|2024-02-14 06:33:38|[机核](https://www.gcores.com/rss)|[JOYTOY《荷鲁斯大叛乱》新品公布：荷鲁斯之子军团参战](https://www.gcores.com/articles/177617)|
+|2024-02-14 05:00:00|[机核](https://www.gcores.com/rss)|[模风掠影（卷一百一十七）：孩之宝6寸公仔新年二月精选](https://www.gcores.com/articles/177590)|
+|2024-02-14 04:44:18|[机核](https://www.gcores.com/rss)|[情人节，聊个白月光级的黑巧克力](https://www.gcores.com/articles/177614)|
+|2024-02-14 02:13:56|[机核](https://www.gcores.com/rss)|[2024年2月第二周手办模型情报总汇](https://www.gcores.com/articles/177598)|
 |2024-02-14 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[以色列称在联合国机构地下发现哈马斯隧道等设施，联合国回应「不知情」，哪些信息值得关注？](https://www.zhihu.com/question/643979620)|
 |2024-02-14 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[讲求婚恋效率，春节相亲开启「群发模式」，如何看待这一现象？](https://www.zhihu.com/question/644275460)|
 |2024-02-14 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国 1 月 CPI 同比增长 3.1%，重挫降息预期，美股三大指数集体下跌，哪些信息值得关注？](https://www.zhihu.com/question/644284443)|
