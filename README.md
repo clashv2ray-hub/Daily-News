@@ -1,7 +1,11 @@
-﻿# 每日资讯（2024-02-13）
+﻿# 每日资讯（2024-02-14）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-14 01:00:53|[虎嗅](https://rss.huxiu.com/)|[日经225指数暴涨近3%，频繁刷新34年新高](https://www.huxiu.com/article/2667614.html?f=rss)|
+|2024-02-14 01:00:00|[虎嗅](https://rss.huxiu.com/)|[因彩礼谈不拢退婚的家长：这是态度不是钱的问题](https://www.huxiu.com/article/2666211.html?f=rss)|
+|2024-02-14 00:54:31|[虎嗅](https://rss.huxiu.com/)|[50岁知名华籍企业家赵安吉车祸去世](https://www.huxiu.com/article/2667613.html?f=rss)|
+|2024-02-14 00:30:43|[虎嗅](https://rss.huxiu.com/)|[00后，开始选择“断亲”](https://www.huxiu.com/article/2667978.html?f=rss)|
 |2024-02-13 05:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国如何误判了生育低谷的到来](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%AF%AF%E5%88%A4%E4%BA%86%E7%94%9F%E8%82%B2%E4%BD%8E%E8%B0%B7%E7%9A%84%E5%88%B0%E6%9D%A5-95ea7452)|
 |2024-02-13 07:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国造船厂已为持久战做好准备，而美国没有](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%80%A0%E8%88%B9%E5%8E%82%E5%B7%B2%E4%B8%BA%E6%8C%81%E4%B9%85%E6%88%98%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87-%E8%80%8C%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%9C%89-f8f9e1c8)|
 |2024-02-13 08:29:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone「下載此App的舊版本」無法更新或取消怎麼辦](https://www.iphonetaiwan.org/2024/02/download-an-older-version-of-this-app.html)|
