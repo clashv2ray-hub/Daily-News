@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-15 04:40:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[免費試用 Google One 「AI 進階版」方案 兩個月](https://applefans.today/2024-02-google-one-gemini-advanced/)|
+|2024-02-15 04:37:33|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[哈工大开源“活字”对话大模型3.0版本](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812549&idx=1&sn=94904d1d02319433ca36923102a5c744)|
 |2024-02-15 08:04:02|[太隐](https://wangyurui.com/feed.xml)|[棱镜通讯 No.107 Duncan J Watts](https://wangyurui.com/posts/leng-jing-tong-xun-no-107-duncan-j-watts-2412d71a)|
 |2024-02-15 08:02:05|[太隐](https://wangyurui.com/feed.xml)|[思维模型04 思想实验](https://wangyurui.com/posts/si-wei-mo-xing-04-si-xiang-shi-yan-5744df28)|
 |2024-02-15 08:01:51|[太隐](https://wangyurui.com/feed.xml)|[思维模型03 第一性原理](https://wangyurui.com/posts/si-wei-mo-xing-03-di-yi-xing-yuan-li-eb88d7c3)|
