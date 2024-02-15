@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-14）
+﻿# 每日资讯（2024-02-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-15 00:56:40|[虎嗅](https://rss.huxiu.com/)|[发“新年财”的深圳人：趁着过年，疯狂搞钱，日赚过千](https://www.huxiu.com/article/2671145.html?f=rss)|
 |2024-02-14 06:17:50|[xulihang's blog](https://blog.xulihang.me/feed/)|[改善视力的替代疗法](https://blog.xulihang.me/alternative-medicine-for-improving-eyesight/)|
 |2024-02-14 17:02:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[为啥开车加塞、插队的特别多](https://blog.est.im/2024/stdin-02)|
 |2024-02-14 08:11:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[进化](https://dig.chouti.com/link/41529926)|
