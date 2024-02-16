@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-16 01:10:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[希腊同性婚姻合法化，成为第一个同性婚姻合法化的东正教国家](https://dig.chouti.com/link/41541861)|
+|2024-02-16 00:15:47|[SHRIK3](https://shrik3.com/index.xml)|[ELF: symbol table, linker script and assembly sugar](https://shrik3.com/post/symboltable/)|
 |2024-02-16 00:27:23|[虎嗅](https://rss.huxiu.com/)|[我们为何会“爱上”电子情人？](https://www.huxiu.com/article/2675208.html?f=rss)|
 |2024-02-16 00:18:09|[虎嗅](https://rss.huxiu.com/)|[《红毯先生》：草台班子的忠告](https://www.huxiu.com/article/2675459.html?f=rss)|
 |2024-02-15 05:33:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[侃爷晒与adidas CEO合影，或将与adidas重启合作](https://dig.chouti.com/link/41536387)|
