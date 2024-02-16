@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-02-15）
+﻿# 每日资讯（2024-02-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-16 00:27:23|[虎嗅](https://rss.huxiu.com/)|[我们为何会“爱上”电子情人？](https://www.huxiu.com/article/2675208.html?f=rss)|
+|2024-02-16 00:18:09|[虎嗅](https://rss.huxiu.com/)|[《红毯先生》：草台班子的忠告](https://www.huxiu.com/article/2675459.html?f=rss)|
 |2024-02-15 05:33:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[侃爷晒与adidas CEO合影，或将与adidas重启合作](https://dig.chouti.com/link/41536387)|
 |2024-02-15 15:00:00|[机核](https://www.gcores.com/rss)|[【抽奖】开放世界多人生存游戏《小小世界》 现已正式发售](https://www.gcores.com/articles/177648)|
 |2024-02-15 15:00:00|[机核](https://www.gcores.com/rss)|[机组闲聊vol.28 俗世奇人龙年特辑](https://www.gcores.com/radios/177229)|
