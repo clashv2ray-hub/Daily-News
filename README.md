@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-16 14:50:05|[机核](https://www.gcores.com/rss)|[个人独立游戏《废柴队友》商店页面开放](https://www.gcores.com/articles/177673)|
+|2024-02-16 13:00:00|[机核](https://www.gcores.com/rss)|[四宝大闹武林其二：把酒言欢醉卧客栈，强敌闯门欲取首级](https://www.gcores.com/radios/177571)|
+|2024-02-16 13:34:51|[爱范儿](https://www.ifanr.com/feed)|[揭秘最强视频生成模型 Sora，OpenAI 是怎么实现 1 分钟一镜到底的？](https://www.ifanr.com/1575461?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024春节档，游戏也卷起来了](https://36kr.com/p/2650505023131138)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI空降视频生成模型：一口气生成60s，风格画质尺寸灵活定制 最前线](https://36kr.com/p/2650547758039300)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[从比亚迪到百万豪车，新能源正在「入侵」小县城](https://36kr.com/p/2649857591840005)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活](https://36kr.com/p/2649283365503236)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[赵安吉不幸离世背后，美国华人第一家的时代传奇与悲怆](https://36kr.com/p/2649759296798981)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[11名学生决定举报导师：做一件「蠢」但正确的事](https://36kr.com/p/2638222576008322)|
 |2024-02-16 12:23:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[人的意识，预测器和 sora](https://blog.est.im/2024/stdin-03)|
 |2024-02-16 12:11:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[星系团Abell 1689，位于室女座，距离地球23亿光年，是已知尺度最大和质量最大的星系团之一。作为一个强大的引力透镜，它扭曲了位于后方其他星系的影像。图一是Reddit用户后期处理的图片；图二是把韦布拍摄的图片叠在了当年哈勃望远镜发现A1689-zD1公布的图片上；图三是星系A1689-zD1的细节；图片来源：NASA](https://dig.chouti.com/link/41546145)|
 |2024-02-16 15:13:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《红毯先生》宣布退出春节档，将会重新选择档期回归与观众见面](https://dig.chouti.com/link/41547306)|
