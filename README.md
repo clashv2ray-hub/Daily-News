@@ -1,4 +1,37 @@
 ﻿# 每日资讯（2024-02-17）
+##  高速机场推荐1
+
+[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+不限设备数
+
+解锁流媒体、chatGPT
+
+注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+
+
+
+##  高速机场推荐2
+
+[【FCCloud】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+
+FCCloud全球节点，解锁流媒体GPT，平民价格
+
+注册地址：[【FCCloud（点击注册）】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+
+###  高速机场推荐3 
+
+[【快猫】](https://kuaimao.work/#/register?code=TTaIXhNs)
+
+季付送小火箭，流量多，优惠多
+
+而且不限登录设备数，chatGPT 解##  高速机场推荐1
+
+[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+不限设备数
+
+解锁流媒体、chatGPT
+
+注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
 
 |时间|来源|标题|
 |---|---|---|
