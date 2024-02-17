@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-17 04:12:28|[爱范儿](https://www.ifanr.com/feed)|[赛博断案，更适合 00 后体质的电子榨菜](https://www.ifanr.com/1575425?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-16 14:50:05|[机核](https://www.gcores.com/rss)|[个人独立游戏《废柴队友》商店页面开放](https://www.gcores.com/articles/177673)|
 |2024-02-16 13:00:00|[机核](https://www.gcores.com/rss)|[四宝大闹武林其二：把酒言欢醉卧客栈，强敌闯门欲取首级](https://www.gcores.com/radios/177571)|
 |2024-02-16 13:34:51|[爱范儿](https://www.ifanr.com/feed)|[揭秘最强视频生成模型 Sora，OpenAI 是怎么实现 1 分钟一镜到底的？](https://www.ifanr.com/1575461?utm_source=rss&utm_medium=rss&utm_campaign=)|
