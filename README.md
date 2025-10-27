@@ -1,23 +1,19 @@
 ﻿# 每日资讯（2024-02-17）
 ##  高速机场推荐1
+【88云加速】 (https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-不限设备数
+10元200G,  chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-解锁流媒体、chatGPT
-
-注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-
+注册地址：【88云加速官网（点击注册）】 (https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 ##  高速机场推荐2
 
-[【FCCloud】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+【88云加速】 (https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-FCCloud全球节点，解锁流媒体GPT，平民价格
+10元200G,  chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【FCCloud（点击注册）】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
-
+注册地址：【88云加速官网（点击注册）】 (https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 ###  高速机场推荐3 
 
 [【快猫】](https://kuaimao.work/#/register?code=TTaIXhNs)
@@ -26,12 +22,11 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 而且不限登录设备数，chatGPT 解##  高速机场推荐1
 
-[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-不限设备数
+【88云加速】 (https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-解锁流媒体、chatGPT
+10元200G,  chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：【88云加速官网（点击注册）】 (https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 |时间|来源|标题|
 |---|---|---|
